@@ -3,7 +3,14 @@
 
 Team Name : Spaghetti (Logo logo logo )
 
-
+Team Member
+팀장 :
+김범중 님 : 전체적인 역할 분담 및 자료 확인, 코드 작성.
+팀원 :
+가채원 님 : 코드 작성 및 PPT 작성
+윤진훈 님 : 코드 작성 및 자료 확인
+정진우 : 자료 수집/가공 및 코드 작성
+    
 
 
 # 나의 웹 :  https://yoonjinhoon.github.io/LikeLion_13th_DataCourse
